@@ -24,4 +24,8 @@ sudo dnf install fcitx fcitx-configtool fcitx-table* im-chooser
 
 ## Gnome Launcher
 
-[https://askubuntu.com/questions/367396/what-represent-the-startupwmclass-field-of-a-desktop-file]
+https://askubuntu.com/questions/367396/what-represent-the-startupwmclass-field-of-a-desktop-file
+
+## KVM
+
+[https://www.youtube.com/watch?v=UySlAfz7e7Q](QEMU/KVM Multi-monitor setup)
