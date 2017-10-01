@@ -31,3 +31,6 @@ https://askubuntu.com/questions/367396/what-represent-the-startupwmclass-field-o
 [QEMU/KVM Multi-monitor setup](https://www.youtube.com/watch?v=UySlAfz7e7Q)
 ## Reverse Port Forwarding
 https://askubuntu.com/questions/50064/reverse-port-tunnelling
+
+## tmux
+[Keep the window's name fixed in tmux](https://stackoverflow.com/questions/6041178/keep-the-windows-name-fixed-in-tmux)
