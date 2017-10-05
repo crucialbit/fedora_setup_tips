@@ -3,6 +3,8 @@ Tested on Fedora 26
 
 ## Useful tools
 
+* [Remarkable](https://github.com/jonschlinkert/remarkable)
+* Gnome Tool & OpenJDK
 ```bash
 sudo dnf install vim gnome-tweak-tool git
 sudo dnf install java-1.8.0-openjdk
@@ -34,3 +36,4 @@ https://askubuntu.com/questions/50064/reverse-port-tunnelling
 
 ## tmux
 [Keep the window's name fixed in tmux](https://stackoverflow.com/questions/6041178/keep-the-windows-name-fixed-in-tmux)
+
